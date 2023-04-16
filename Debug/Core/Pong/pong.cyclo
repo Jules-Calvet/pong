@@ -1,0 +1,15 @@
+pong.c:29:13:set_new_state	2
+pong.c:61:19:pong_init	7
+pong.c:112:19:pong_run	35
+pong.c:255:6:state_start	6
+pong.c:337:6:state_wpp1	2
+pong.c:364:6:state_wpp2	2
+pong.c:392:6:state_gtp1	4
+pong.c:453:6:state_gtp2	4
+pong.c:515:6:state_rpp1	2
+pong.c:538:6:state_rpp2	2
+pong.c:561:6:state_ip1s	7
+pong.c:597:6:state_ip2s	7
+pong.c:635:6:state_p1wn	35
+pong.c:731:6:state_p2wn	35
+pong.c:829:6:HAL_GPIO_EXTI_Callback	3

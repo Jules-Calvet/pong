@@ -1,0 +1,5 @@
+timer.c:16:6:timer_interrupt	2
+timer.c:30:19:timer_init	1
+timer.c:53:6:set_interrupt_launcher	1
+timer.c:61:6:start_timer	1
+timer.c:66:6:stop_timer	1

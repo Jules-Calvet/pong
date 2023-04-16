@@ -1,0 +1,15 @@
+../Core/Pong/pong.c:29:13:set_new_state	24	static
+../Core/Pong/pong.c:61:19:pong_init	24	static
+../Core/Pong/pong.c:112:19:pong_run	8	static
+../Core/Pong/pong.c:255:6:state_start	8	static
+../Core/Pong/pong.c:337:6:state_wpp1	8	static
+../Core/Pong/pong.c:364:6:state_wpp2	8	static
+../Core/Pong/pong.c:392:6:state_gtp1	8	static
+../Core/Pong/pong.c:453:6:state_gtp2	8	static
+../Core/Pong/pong.c:515:6:state_rpp1	8	static
+../Core/Pong/pong.c:538:6:state_rpp2	8	static
+../Core/Pong/pong.c:561:6:state_ip1s	8	static
+../Core/Pong/pong.c:597:6:state_ip2s	8	static
+../Core/Pong/pong.c:635:6:state_p1wn	16	static
+../Core/Pong/pong.c:731:6:state_p2wn	16	static
+../Core/Pong/pong.c:829:6:HAL_GPIO_EXTI_Callback	16	static
